@@ -11,4 +11,5 @@ public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus
 <!-- badges: end --> <!-- badges: end -->
 
 [`washingtonstreetnetworks`](https://github.com/tiernanmartin/washingtonstreetnetworks)
-is an analytic exploration of the street networks of Washington state.
+is a work-in-progress exploration of the street networks of Washington
+state.
